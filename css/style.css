@@ -75,6 +75,7 @@ padding: 0 20px;
 
 .l-heading{
     font-size: 40px;
+    line-height: 1.2;
 }
 
 #submit-btn{
@@ -157,7 +158,7 @@ padding: 0 20px;
 /** Home info */
 
 #home-info{
-    height: 400px;
+    height: 450px;
 }
 
 #home-info .info-img{
@@ -220,7 +221,7 @@ min-height: 100%;
 /** Testimonials  */
 
 #testimonials {
-    height: 600px;
+    height: 100%;
     background: url(/images/testimonialsbg.jpg) no-repeat center center/cover;
     padding-top: 100px;
   }
